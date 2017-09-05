@@ -8,3 +8,5 @@ fuctions/node_modules/
 node_modules/
 npm-debug.log
 yarn-error.log
+
+functions/service_account.json
