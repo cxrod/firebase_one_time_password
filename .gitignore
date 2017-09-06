@@ -10,3 +10,4 @@ npm-debug.log
 yarn-error.log
 
 functions/service_account.json
+functions/twilio.js
